@@ -6,9 +6,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "lint": "eslint .",
-    "start": "node .",
-    "posttest": "npm run lint"
+    "start": "node ."
   },
   "dependencies": {
     "compression": "^1.0.3",
